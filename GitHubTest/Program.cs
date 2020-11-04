@@ -8,6 +8,7 @@ namespace GitHubTest
         {
             Console.WriteLine("Hello World!");
             //Dette er en kommentar
+            //Endnu en kommentar
             Console.WriteLine("Hej");
         }
     }
